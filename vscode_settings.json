@@ -1,0 +1,26 @@
+{
+  "workbench.colorTheme": "Cobalt2",
+  "window.zoomLevel": 1,
+  "files.autoSave": "off",
+  "terminal.integrated.inheritEnv": false,
+  "C_Cpp.updateChannel": "Insiders",
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "vue-html": "html",
+      "razor": "html",
+      "plaintext": "pug"
+    }
+  },
+  "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {},
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "editor.codeActionsOnSave": { "source.organizeImports": true }
+}
+
